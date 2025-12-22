@@ -33,7 +33,7 @@ def extract_required_data(repositories):
             "full_name": repo["full_name"],
             "owner_name": repo["owner"]["login"],
             "repo_url": repo["html_url"]
-        }
+        } 
 
         final_data.append(repo_info)
 
