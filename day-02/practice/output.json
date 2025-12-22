@@ -1,0 +1,62 @@
+[
+    {
+        "repository_name": "grit",
+        "full_name": "mojombo/grit",
+        "owner_name": "mojombo",
+        "repo_url": "https://github.com/mojombo/grit"
+    },
+    {
+        "repository_name": "merb-core",
+        "full_name": "wycats/merb-core",
+        "owner_name": "wycats",
+        "repo_url": "https://github.com/wycats/merb-core"
+    },
+    {
+        "repository_name": "rubinius",
+        "full_name": "rubinius/rubinius",
+        "owner_name": "rubinius",
+        "repo_url": "https://github.com/rubinius/rubinius"
+    },
+    {
+        "repository_name": "god",
+        "full_name": "mojombo/god",
+        "owner_name": "mojombo",
+        "repo_url": "https://github.com/mojombo/god"
+    },
+    {
+        "repository_name": "jsawesome",
+        "full_name": "vanpelt/jsawesome",
+        "owner_name": "vanpelt",
+        "repo_url": "https://github.com/vanpelt/jsawesome"
+    },
+    {
+        "repository_name": "jspec",
+        "full_name": "wycats/jspec",
+        "owner_name": "wycats",
+        "repo_url": "https://github.com/wycats/jspec"
+    },
+    {
+        "repository_name": "exception_logger",
+        "full_name": "defunkt/exception_logger",
+        "owner_name": "defunkt",
+        "repo_url": "https://github.com/defunkt/exception_logger"
+    },
+    {
+        "repository_name": "ambition",
+        "full_name": "defunkt/ambition",
+        "owner_name": "defunkt",
+        "repo_url": "https://github.com/defunkt/ambition"
+    },
+    {
+        "repository_name": "restful-authentication",
+        "full_name": "technoweenie/restful-authentication",
+        "owner_name": "technoweenie",
+        "repo_url": "https://github.com/technoweenie/restful-authentication"
+    },
+    {
+        "repository_name": "attachment_fu",
+        "full_name": "technoweenie/attachment_fu",
+        "owner_name": "technoweenie",
+        "repo_url": "https://github.com/technoweenie/attachment_fu"
+    }
+]
